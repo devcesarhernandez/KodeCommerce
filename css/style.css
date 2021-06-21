@@ -1,0 +1,16 @@
+.card{
+	whidth: 18rem;
+}
+
+.btn:focus{
+	outline: none;
+}
+
+.w-25{
+	width: 25%;
+}
+
+#countProductsCart {
+    right: 7.5px;
+    top: 15px;
+}
